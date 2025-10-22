@@ -1,0 +1,21 @@
+user_id,reconstruction_error,is_anomaly,employee_name,role,department,total_emails,external_emails,after_hours_logons
+CDE1846,130.43873002561438,True,Carlos Dieter Ewing,ElectricalEngineer,4 - Engineering,3165,1015,0
+BPD2437,4.2330301728803885,True,Benjamin Phillip Dyer,ITAdmin,5 - Security,4392,1514,1568
+TAM3048,3.7173783611717552,True,Tara Adara Miranda,ITAdmin,5 - Security,5067,2216,1787
+CHB1062,2.621358595703754,True,Cally Haley Butler,ITAdmin,5 - Security,3505,1581,1522
+BPN3051,2.5705330037104552,True,Breanna Pascale Nelson,ITAdmin,5 - Security,3789,1230,1486
+LCW0047,2.5369163285132657,True,Lillian Courtney Wall,ITAdmin,5 - Security,3834,1437,1478
+QGH0041,2.4293691049387105,True,Quinlan Gil Hobbs,ITAdmin,5 - Security,3813,1390,1446
+EPI3052,2.3430280727069683,True,Eric Price Ingram,ITAdmin,5 - Security,3842,1471,1527
+MTS0465,2.341451117379523,True,Micah Tucker Sanchez,ITAdmin,5 - Security,4405,1577,1826
+WSA1765,2.292748194593228,True,William Sean Allen,ITAdmin,5 - Security,3804,1183,1492
+BMM0462,2.2741730102774946,True,Brent Macon Munoz,ITAdmin,5 - Security,3798,1484,1437
+JCB3054,2.2442108174325752,True,Jayme Camille Bryant,ITAdmin,5 - Security,3837,1536,1590
+KAC1774,2.1193202871079424,True,Kaden Aubrey Craig,ITAdmin,5 - Security,3462,1088,1500
+MAB1775,2.04054863429984,True,Melvin Amos Beck,ITAdmin,5 - Security,3807,1288,1534
+CAM3050,2.0148528777632,True,Cairo Aaron Mcgee,ITAdmin,5 - Security,3809,1286,1515
+LEB1764,1.9888299141246482,True,Liberty Evelyn Becker,ITAdmin,5 - Security,3803,1227,1466
+DLM2440,1.9474150616912835,True,Dorian Lev Maldonado,ITAdmin,5 - Security,3794,1348,1399
+QAH0048,1.8275478654881332,True,Quentin Anthony Hudson,ITAdmin,5 - Security,3834,1335,1515
+KEF1057,1.714218782253126,True,Kendall Eden Flynn,ITAdmin,5 - Security,3822,1269,1524
+IKP1047,1.657404297552889,True,Isaac Kirk Price,ITAdmin,5 - Security,2466,949,1045
